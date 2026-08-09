@@ -9,7 +9,7 @@
 ---
 <br><br>
 
-### 👇 Click The Button To Explore My Project Documentation
+### 👇 Click The Link To Explore My Project Documentation
 
 [CPU Utilization.pdf](https://github.com/user-attachments/files/30872372/CPU.Utilization.pdf)
 
