@@ -6,10 +6,35 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-Monitoring-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNS-Notifications-FF9900?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge"/>
+---
+<br><br>
+
+### 👇 Click The Button To Explore My Project Documentation
+
+<a href=" https://github.com/user-attachments/files/30872054/CPU.Utilization.pdf ">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:232F3E,50:FF9900,100:232F3E&height=70&text=🚀%20OPEN%20DOCUMENTATION&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="500"/>
+
+</a>
+
+<br><br>
+
+<sub>☁️ AWS CloudWatch  •  🔔 SNS  •  🚨 Monitoring  •  ⚡ Automation</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Monitor+%E2%86%92+Detect+%E2%86%92+Notify+%E2%86%92+Respond;Build+Reliable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F" />
+
+<br>
+
+⭐ **If you found this project useful, give it a star!**
+
+</div>
+
 
 <br><br>
 
@@ -369,4 +394,8 @@ flowchart LR
     linkStyle default stroke:#FF9900,stroke-width:3px
 
 <div align="center">
+
+
+
+
 
