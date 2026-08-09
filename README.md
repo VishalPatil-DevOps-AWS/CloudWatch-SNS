@@ -11,9 +11,11 @@
 
 ### 👇 Click The Button To Explore My Project Documentation
 
-<a href=" https://github.com/user-attachments/files/30872054/CPU.Utilization.pdf ">
+[CPU Utilization.pdf](https://github.com/user-attachments/files/30872372/CPU.Utilization.pdf)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:232F3E,50:FF9900,100:232F3E&height=70&text=🚀%20OPEN%20DOCUMENTATION&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="500"/>
+
+
+
 
 </a>
 
