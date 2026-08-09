@@ -310,8 +310,6 @@ This project provides practical experience with one of the most important concep
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FF9900&center=true&vCenter=true&width=650&lines=☁️+Monitor;🚨+Detect;🔔+Notify;⚡+Respond;🚀+Build+Reliable+Cloud+Infrastructure" />
-
 <br><br>
 
 ⭐ **If you found this project useful, consider giving it a star!**
@@ -321,3 +319,54 @@ This project provides practical experience with one of the most important concep
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:232F3E&height=120&section=footer" width="100%"/>
 
 </div>
+
+
+---
+
+---
+
+## 🚀 3D Cloud Monitoring Flow
+
+<div align="center">
+
+```mermaid
+%%{init: {
+  "theme": "dark",
+  "themeVariables": {
+    "primaryColor": "#232F3E",
+    "primaryTextColor": "#FFFFFF",
+    "primaryBorderColor": "#FF9900",
+    "lineColor": "#FF9900",
+    "secondaryColor": "#FF9900",
+    "tertiaryColor": "#161E2D"
+  }
+}}%%
+
+flowchart LR
+
+    A{{"☁️ AWS RESOURCE"}} 
+    B[["📊 CLOUDWATCH"]]
+    C{{"🚨 ALARM"}}
+    D[["🔔 SNS"]]
+    E{{"📧 NOTIFICATION"}}
+    F{{"⚡ RESPONSE"}}
+
+    A -->|Metrics| B
+    B -->|Threshold| C
+    C -->|Trigger| D
+    D -->|Alert| E
+    E -->|Action| F
+
+    F -.->|Continuous Monitoring| A
+
+    style A fill:#232F3E,stroke:#FF9900,stroke-width:4px,color:#FFFFFF
+    style B fill:#161E2D,stroke:#FF9900,stroke-width:4px,color:#FFFFFF
+    style C fill:#D13212,stroke:#FF9900,stroke-width:4px,color:#FFFFFF
+    style D fill:#232F3E,stroke:#FF9900,stroke-width:4px,color:#FFFFFF
+    style E fill:#161E2D,stroke:#FF9900,stroke-width:4px,color:#FFFFFF
+    style F fill:#FF9900,stroke:#FFFFFF,stroke-width:4px,color:#000000
+
+    linkStyle default stroke:#FF9900,stroke-width:3px
+
+<div align="center">
+
